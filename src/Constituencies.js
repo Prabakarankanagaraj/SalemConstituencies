@@ -98,6 +98,6 @@ const loading=()=>{
     return{}
  }
 export const executeListing=()=>{
-    loading()
+    // loading()
     return Constituencies
 }
